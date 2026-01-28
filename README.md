@@ -10,7 +10,7 @@ A simple HTML based project
 OR  
 - Screenshots are provided below.
 
-https://github.com/ajayuhjain89/HTML-assignment/blob/main/Screenshot%202026-01-28%20at%2012.09.24.png
+https://github.com/ajayuhjain89/HTML-assignment/blob/main/Screenshot%202026-01-28%20at%2016.00.56.png
 
 ---
 
