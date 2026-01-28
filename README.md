@@ -6,7 +6,7 @@ A simple HTML based project
 
 ## Demo
 
-- Live Demo (GitHub Pages): https://github.com/ajayuhjain89/HTML-assignment/blob/main/resume.html
+- Live Demo (GitHub Pages): https://ajayuhjain89.github.io/HTML-assignment/resume.html
 OR  
 - Screenshots are provided below.
 
