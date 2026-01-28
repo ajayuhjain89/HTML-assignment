@@ -10,7 +10,8 @@ A simple HTML based project
 OR  
 - Screenshots are provided below.
 
-https://github.com/ajayuhjain89/HTML-assignment/blob/main/screenshot.png
+<img width="1680" height="933" alt="Screenshot 2026-01-28 at 16 00 56" src="https://github.com/user-attachments/assets/004dcb33-8ae2-47d1-8617-f74643bf3f00" />
+
 
 ---
 
